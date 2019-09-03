@@ -4,12 +4,16 @@
     </a>
 </p>
 
+---
+
 * [Ruby](#ruby)
 * [Java](#java)
 
+---
+
 Solutions crawled from Hackerrank using [Hackerrank Scrapper](https://github.com/hearsid/hackerrank-scrapper).
 
-------------
+---
 
 # Java
 
